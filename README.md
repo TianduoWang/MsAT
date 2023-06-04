@@ -1,6 +1,6 @@
 ## MsAT: Learning Multi-step Reasoning from Arithmetic Task
 
-### Overrview
+### Overview
 
 Motivated by large language models' impressive reasoning abilities elicited by the *chain-of-thought prompting*([Wei et al., 2022](https://arxiv.org/abs/2201.11903)), we propose to inject multi-step reasoning ability into relatively small LMs (e.g., RoBERTa) by pre-training them on a synthetic dataset MsAT. Our experiments are conducted with two backbone models: a Seq2Seq model [RoBERTaGen](https://github.com/LYH-YF/MWPToolkit) which augments RoBERTa with a transformer decoder, and a Seq2DAG model [DeductReasoner](https://github.com/allanj/Deductive-MWP) that combines RoBERTa with a directed-acyclic-graph decoder.
 
