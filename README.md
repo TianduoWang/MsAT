@@ -7,11 +7,7 @@ This repository contains the code and data for our ACL 2023 paper "Learning Mult
 
 ### Install dependencies
 
-All our experiments are conducted with Python 3.8 and PyTorch v1.12.0.
-
-Please first install PyTorch v1.12.0 from [the official link](https://pytorch.org/get-started/previous-versions/).
-
-To install other dependencies, please run the following script:
+All our experiments are conducted with Python 3.8 and PyTorch v1.12.0. Please first install PyTorch v1.12.0 from [the official link](https://pytorch.org/get-started/previous-versions/). To install other dependencies, please run the following script:
 ```bash
 pip install -r requirements.txt
 ```
@@ -22,7 +18,14 @@ The core idea of our method is to inject multi-step reasoning skills into models
 
 <img decoding="async" src="figures/pretraining.png" width="70%">
 
-We have released the weights of pre-trained models on Huggingface Model Hub. You may simply load the pre-trained weights using the following code before fine-tuning on downstream MWP tasks (take RoBERTaGen as an example).
+We have released the weights of pre-trained models on Huggingface Model Hub. 
+
+|              Models              | MsAT Acc.|
+|:-------------------------------|:--------:|
+|  [Tianduo/MsAT-DeductReasoner](https://huggingface.co/Tianduo/MsAT-DeductReasoner) |   99.0 |
+| [Tianduo/MsAT-RoBERTaGen](https://huggingface.co/Tianduo/MsAT-RoBERTaGen) |   96.1  |
+
+You may simply load the pre-trained weights using the following code before fine-tuning on downstream MWP tasks (take RoBERTaGen as an example).
 
 ```python
 from robertagen.model import RoBERTaGen, HFRoBERTaGen, RoBERTaGenConfig
@@ -55,10 +58,10 @@ Arguments are explained here:
 - `--difficulty` the difficulty level of MsAT 
 
 ### Fine-tuning on Math Word Problem datasets
-We have prepared training scripts and hyperparameters in this repository. For example, to fine-tune MsAT-DeductReasoner on SVAMP, we can run the following command:
+For example, to fine-tune MsAT-RoBERTaGen on SVAMP, we can run the following command:
 
 ```bash
-python deductreasoner/train.py -c deductreasoner/config/svamp.yaml
+python robertagen/train.py -c robertagen/config/svamp.yaml
 ```
 
 
