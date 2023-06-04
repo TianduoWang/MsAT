@@ -1,0 +1,398 @@
+Question,Equation,Answer,Numbers
+Anna starts with number0 candies . She gets number1 more from Larry . How many candies does Anna end with ?,+ number0 number1,91.0,5.0 86.0
+Sam had number0 pennies in his bank . He spent number1 of his pennies . How many pennies does he have now ?,- number0 number1,5.0,98.0 93.0
+"Alyssa loves eating fruits . Alyssa paid $ number0 for grapes , and $ number1 for cherries . In total , how much money did Alyssa spend ?",+ number0 number1,21.93,12.08 9.85
+Harry is inviting number0 friends to a party . He has number1 cookies . How many cookies will each friend get ?,/ number1 number0,4.0,3.0 12.0
+"Sarah sold number0 boxes of Lemon Chalet Cremes . How many cases of number1 boxes , plus extra boxes does Sarah need ?",/ number0 number1,2.0,24.0 12.0
+A multi - national corporation has number0 part - time employees and number1 full - time employees . How many employees work for the corporation ?,+ number0 number1,65134.0,2041.0 63093.0
+"Roger was helping the cafeteria workers pick up lunch trays , but he could only carry number0 trays at a time . If he had to pick up number1 trays from one table and number2 trays from another , how many trips will he make ?",/ + number1 number2 number0,3.0,4.0 10.0 2.0
+Janet has number0 apples . She finds another number1 . How many apples does Janet have in all ?,+ number0 number1,152.0,57.0 95.0
+For Halloween Haley scored number0 pieces of candy . She ate number1 pieces the first night and then her sister gave her number2 more pieces . How many pieces of candy does Haley have now ?,- + number0 number2 number1,35.0,33.0 17.0 19.0
+Eve ran number0 of a mile and walked number1 of a mile . How much farther did Eve run than walk ?,- number0 number1,0.1,0.7 0.6
+"Blake filled a bucket with number0 gallon of water . Later , he poured out number1 gallon of the water . How much water is in the bucket ?",- number0 number1,0.6,0.8 0.2
+"Cody bought number0 boxes of chocolate candy and number1 boxes of caramel candy . If each box has number2 pieces inside it , how much candy did he have total ?",* number2 + number0 number1,80.0,7.0 3.0 8.0
+"While on vacation , Rachel took number0 pictures at the zoo and number1 at the museum . If she later deleted number2 of the pictures , how many pictures from her vacation did she still have ?",- + number0 number1 number2,4.0,6.0 9.0 11.0
+Joan 's cat had number0 kittens . She gave number1 to her friends . How many kittens does she have now ?,- number0 number1,6,8.0 2.0
+"Katie was selling her necklaces at a garage sale . She sold number0 bead necklaces and number1 gem stone necklaces . If each necklace cost number2 dollars , how much money did she earn ?",* number1 + number0 number1,21.0,4.0 3.0 3.0
+"So far , an orchard has sold a combined total of number0 pounds of fresh and frozen fruit this season . If they have sold number1 pounds of frozen fruit , how many pounds of fresh fruit have been sold so far ?",- number0 number1,6279.0,9792.0 3513.0
+Sandy had number0 pennies and number1 nickels in her bank . Her dad borrowed number2 nickels from Sandy . How many nickels does she have now ?,- number1 number2,11,36.0 31.0 20.0
+"There are number0 students trying out for the school 's trivia teams . If number1 of them did n't get picked for the team and the rest were put into number2 groups , how many students would be in each group ?",/ - number0 number1 number2,4.0,17.0 5.0 3.0
+"Oliver had number0 dollars in January . By March he had spent number1 dollars . If he got another number2 dollars from his mom , how much money would he have ?",- + number0 number2 number1,61.0,33.0 4.0 32.0
+"Vanessa and her mom were picking carrots from their garden . Vanessa picked number0 and her mother picked number1 . If only number2 of the carrots were good , how many bad carrots did they have ?",- + number0 number1 number2,7.0,17.0 14.0 24.0
+A carpenter bought a piece of wood that was number0 meters long . Then she sawed number1 meters off the end . How long is the piece of wood now ?,- number0 number1,0.08,0.41 0.33
+A worker at a medical lab is studying blood samples . number0 samples contained a total of number1 blood cells . The first sample contained number2 blood cells . How many blood cells were in the second sample ?,- number1 number2,3120.0,2.0 7341.0 4221.0
+Barbara has number0 candies . She buys number1 more . How many candies does Barbara have in all ?,+ number0 number1,27.0,9.0 18.0
+"There were number0 friends playing a video game online when number1 players quit . If each player left had number2 lives , how many lives did they have total ?",* number2 - number0 number1,30.0,13.0 8.0 6.0
+A restaurant served number0 cakes during lunch and number1 during dinner today . How many cakes were served today ?,+ number0 number1,15.0,6.0 9.0
+"Jason picked number0 pears , Keith picked number1 pears , and Mike picked number2 pears from the pear tree . How many pears were picked in total ?",+ + number0 number1 number2,105,46.0 47.0 12.0
+"Sarah had some trucks . She gave number0 to Jeff , and now she has number1 trucks left . How many trucks did Sarah have to start with ?",+ number0 number1,51.0,13.0 38.0
+Sally had number0 cards . Dan gave her number1 new cards . Sally bought number2 cards . How many cards does Sally have now ?,+ + number0 number1 number2,88.0,27.0 41.0 20.0
+"Frank was collecting cans for recycling . On Saturday he filled number0 bags up and on Sunday he filled number1 more bags . If each bag had number2 cans in it , how many cans did he pick up total ?",* number0 + number0 number1,40.0,5.0 3.0 5.0
+There are number0 birds and number1 nests . How many more birds are there than nests ?,- number0 number1,3.0,6.0 3.0
+"Jane ’s mom picked cherry tomatoes from their backyard . If she gathered number0 cherry tomatoes and is about to place them in small jars which can contain number1 cherry tomatoes at a time , how many jars will she need ?",/ number0 number1,7.0,56.0 8.0
+It takes number0 minutes to bake one pan of cookies . How long will it take to bake number1 pans of cookies ?,* number0 number1,28.0,7.0 4.0
+Melanie picked number0 plums and number1 oranges from the orchard . She gave number2 plums to Sam . How many plums does she have now ?,- number0 number2,4,7.0 4.0 3.0
+"The value of a sport utility vehicle this year is number0 dollars , which is number1 of what its value was last year . How much is the value of the vehicle last year ?",/ number0 number1,20000.0,16000.0 0.8
+"A pet store has number0 bird cages . If each cage has number1 parrots and number2 parakeets in it , how many birds does the pet store have total ?",* number0 + number1 number2,54.0,6.0 2.0 7.0
+"Nancy and her mom were picking carrots from their garden . Nancy picked number0 and her mother picked number1 . If only number2 of the carrots were good , how many bad carrots did they have ?",- + number0 number1 number2,14.0,38.0 47.0 71.0
+Rachel removes number0 bottle caps from a jar . There were originally number1 bottle caps in the jar . How many bottle caps are left in the jar ?,- number1 number0,40.0,47.0 87.0
+"Janet was playing a video game and had number0 lives . In a hard part of the game she lost number1 lives . If she got number2 more lives in the next level , how many lives would she have ?",- + number0 number2 number1,54.0,38.0 16.0 32.0
+"Logan recorded the snowfall every day during a snowstorm . He recorded number0 of a centimeter on Wednesday , number1 of a centimeter on Thursday , and number2 of a centimeter on Friday . How many total centimeters of snow did Logan record ?",+ + number0 number1 number2,0.8888888888888888,0.3333333333333333 0.3333333333333333 0.2222222222222222
+A sandbox is number0 centimeters long and number1 centimeters wide . How many square centimeters of ground does the sandbox cover ?,* number0 number1,45552.0,312.0 146.0
+Sean has number0 whistles . He has number1 more whistles that Charles . How many whistles does Charles have ?,- number0 number1,128.0,223.0 95.0
+"Mary had number0 Pokemon cards , and number1 were torn . Sam gave Mary number2 new Pokemon cards . How many Pokemon cards does Mary have now ?",+ number0 number2,56,33.0 6.0 23.0
+"Isabel uploaded number0 pictures from her phone and number1 from her camera to facebook . If she sorted the pics into number2 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?",/ + number0 number1 number2,2.0,2.0 4.0 3.0
+"Allen , Shiela ’s brother , likes to play with blocks . Shiela repainted Allen ’s old blocks in different colors . If Allen has number0 identical blocks and there are number1 blocks for every color of paint used , how many colors did Shiela use ?",/ number0 number1,7.0,49.0 7.0
+"Wendy was playing a video game and had number0 lives . In a hard part of the game she lost number1 lives . If she got number2 more lives in the next level , how many lives would she have ?",- + number0 number2 number1,74.0,43.0 8.0 39.0
+There are number0 walnut trees currently in the park . Park workers will plant number1 more walnut trees today . How many walnut trees will the park have when the workers are finished ?,+ number0 number1,211.0,107.0 104.0
+"If each ball costs $ number0 , how much must Kyoko pay for number1 balls ?",* number0 number1,4.62,1.54 3.0
+Jesse ’s room is number0 feet long and number1 feet wide . How much carpet does she need to cover the whole floor ?,* number0 number1,96.0,12.0 8.0
+"A trivia team had number0 members total , but during a game number1 members did n't show up . If each member that did show up scored number2 points , how many points were scored total ?",* number2 - number0 number1,35.0,14.0 7.0 5.0
+"While shopping for music online , Faye bought number0 country albums and number1 pop albums . Each album came with a lyric sheet and had number2 songs . How many songs did Faye buy total ?",* number2 + number0 number1,30.0,2.0 3.0 6.0
+Mary had number0 nickels in her bank . Her dad gave her number1 more nickels . How many nickels does Mary have now ?,+ number0 number1,12.0,7.0 5.0
+There are number0 flowers and number1 bees . How many fewer bees are there than flowers ?,- number0 number1,2.0,5.0 3.0
+"Bonnie has number0 tickets . If she shares them among number1 friends , how many tickets does each friend get ?",/ number0 number1,5.0,10.0 2.0
+Randy has number0 blocks . He uses number1 blocks to build a tower . How many blocks are left ?,- number0 number1,59.0,78.0 19.0
+Henry wants to split a collection of crayons into groups of number0 . Henry has number1 crayons . How many groups will be created ?,/ number1 number0,7.0,6.0 42.0
+"Megan 's class is going on a field trip to the zoo . If each van can hold number0 people and there are number1 students and number2 adults going , how many vans will they need ?",/ + number0 number1 number0,6.0,5.0 25.0 5.0
+number0 ducks are swimming in a lake . number1 more ducks come to join them . How many ducks are swimming in the lake ?,+ number0 number1,33.0,13.0 20.0
+Scarlett made a fruit salad with number0 of a pound of melon and number1 of a pound of berries . How many pounds of fruit did Scarlett use in all ?,+ number0 number1,0.625,0.25 0.375
+Sara had number0 pennies and number1 quarters in her bank . Her dad borrowed number2 quarters from Sara . How many quarters does she have now ?,- number1 number2,512,100.0 783.0 271.0
+"You are reading a book with number0 pages . If you want to read the same number of pages each night , how many would you have to read each night to finish in number1 days ?",/ number0 number1,12.0,120.0 10.0
+"There are number0 students in the class and number1 pencils . If the pencils are divided equally among the students , how many does each student get ?",/ number1 number0,9.0,2.0 18.0
+Suzie found two worms in the yard and measured them with a ruler . One worm was number0 of an inch long . The other worm was number1 of an inch long . How much longer was the longer worm ?,- number0 number1,0.7,0.8 0.1
+"Brandy made trail mix for a backpacking trip . She used number0 pound of peanuts , number1 pound of chocolate chips , and number2 pound of raisins . How many pounds of trail mix did Brandy make ?",+ + number0 number1 number2,0.4166666666666667,0.16666666666666666 0.16666666666666666 0.08333333333333333
+Benny 's high school played number0 baseball games this year . He attended number1 games . How many baseball games did Benny miss ?,- number0 number1,25.0,39.0 14.0
+Tori was number0 feet tall . Then she grew number1 feet taller . How tall is Tori now ?,+ number0 number1,7.26,4.4 2.86
+"While playing at the arcade , Luke won number0 tickets playing ' whack a mole ' and number1 tickets playing ' skee ball ' . If he was trying to buy candy that cost number2 tickets a piece , how many could he buy ?",/ + number0 number1 number2,5.0,2.0 13.0 3.0
+Mandy made an apple pie . She used number0 tablespoon of cinnamon and number1 tablespoon of nutmeg . How much more cinnamon than nutmeg did Mandy use ?,- number0 number1,0.16666666666666666,0.6666666666666666 0.5
+A pet store had number0 puppies . In one day they sold number1 of them and put the rest into cages with number2 in each cage . How many cages did they use ?,/ - number0 number1 number2,3.0,13.0 7.0 2.0
+"Last year at Newberg 's airport , number0 passengers landed on time . Unfortunately , number1 passengers landed late . In all , how many passengers landed in Newberg last year ?",+ number0 number1,14720.0,14507.0 213.0
+"While making desserts for a bake sale , Victor used number0 scoop of brown sugar as well as number1 scoop of white sugar . How much more brown sugar did Victor use ?",- number0 number1,0.375,0.625 0.25
+Mary has number0 yellow marbles Joan has number1 yellow marbles . How many yellow marbles do they have in all ?,+ number0 number1,12.0,9.0 3.0
+Donald has number0 oranges . He finds another number1 . How many oranges does Donald have in all ?,+ number0 number1,9.0,4.0 5.0
+Virginia starts with number0 eggs . Amy takes number1 away . How many eggs does Virginia end with ?,- number0 number1,93.0,96.0 3.0
+"Sam grew number0 watermelons , but the rabbits ate number1 watermelons . How many watermelons does Sam have left ?",- number0 number1,1.0,4.0 3.0
+Brennan had number0 grams of pepper . Then he used number1 grams of the pepper to make some scrambled eggs . How much pepper does Brennan have ?,- number0 number1,0.09,0.25 0.16
+"Shirley sold number0 boxes of Do - Si - Dos . How many cases of number1 boxes , plus extra boxes does Shirley need to deliver ?",/ number0 number1,5.0,20.0 4.0
+"Fred loves trading cards . He bought number0 packs of football cards for $ number1 each , a pack of Pokemon cards for $ number2 , and a deck of baseball cards for $ number3 . How much did Fred spend on cards ?",+ + * number0 number1 number2 number3,18.42,2.0 2.73 4.01 8.95
+"There were number0 girls and number1 boys trying out for the schools basketball team . If only number2 of them got called back , how many students did n't make the cut ?",- + number0 number1 number2,39.0,17.0 32.0 10.0
+"Allie counted the leftover ice cream after a sundae party . She had number0 carton of rocky road ice cream , number1 carton of cookie dough ice cream , and number2 carton of strawberry cheesecake ice cream . How many cartons of ice cream did Allie have in all ?",+ + number0 number1 number2,0.8333,0.333 0.333 0.1667
+"Before the recent housing boom , there were number0 houses in Lawrence County . Now , there are number1 houses . How many houses did developers build during the housing boom ?",- number1 number0,574.0,1426.0 2000.0
+Irene just bought a new lamp for her bedside table . The old lamp was number0 foot tall and the new lamp is number1 feet tall . How much taller is the new lamp than the old lamp ?,- number1 number0,1.3333333333333333,1.0 2.3333333333333335
+There are number0 rulers in the drawer . Tim took number1 rulers from the drawer . How many rulers are now in the drawer ?,- number0 number1,21.0,46.0 25.0
+Kimberly went to the store number0 times last month . She buys number1 peanuts each time she goes to the store . How many peanuts did Kimberly buy last month ?,* number0 number1,21.0,3.0 7.0
+"A painter needed to paint number0 rooms in a building . Each room takes number1 hours to paint . If he already painted number2 rooms , how much longer will he take to paint the rest ?",* number1 - number0 number2,24.0,12.0 3.0 4.0
+There are number0 pencils in a box . Eric takes number1 pencils . How many are left ?,- number0 number1,75.0,79.0 4.0
+Alyssa picked number0 plums and Jason picked number1 plums . Melanie picked number2 pears . How many plums were picked in all ?,+ number0 number1,27,17.0 10.0 35.0
+Larry has number0 cards . Dennis takes number1 away . How many cards will Larry have ?,- number0 number1,58.0,67.0 9.0
+Marcia spent number0 minutes working on her science project . How many hours did Marcia spend on her science project ?,/ number0 60,5.0,300.0
+There are number0 maple trees and number1 popular trees currently in the park . Park workers will plant number2 maple trees today . How many maple trees will the park have when the workers are finished ?,+ number0 number2,11,2.0 5.0 9.0
+"To fill an order , the factory dyed number0 yards of silk green and number1 yards pink . How many yards of silk did it dye for that order ?",+ number0 number1,111421.0,61921.0 49500.0
+Haley 's favorite band was holding a concert where tickets were number0 dollars each . Haley bought number1 tickets for herself and her friends and number2 extra tickets in case anyone else wanted to go . How much did she spend ?,* number0 + number1 number2,32.0,4.0 3.0 5.0
+"If Madison sold number0 boxes of Tagalongs , how many cases of number1 boxes does Madison pickup from the cookie mom ?",/ number0 number1,2.0,24.0 12.0
+A car company produced number0 cars in North America and number1 cars in Europe . How many cars is that in all ?,+ number0 number1,6755.0,3884.0 2871.0
+"Faye had number0 coloring books . If she gave away number1 of them , but then bought number2 more , how many would she have total ?",- + number0 number2 number1,79.0,34.0 3.0 48.0
+"There school 's baseball team had number0 new players and number1 returning players . If the coach put them into groups with number2 players in each group , how many groups would there be ?",/ + number0 number1 number2,2.0,2.0 6.0 4.0
+"A dust storm sweeps across the prairie . It covers number0 acres of the prairie in dust , but leaves number1 acres untouched . How many acres does the prairie cover ?",- number0 number1,64013.0,64535.0 522.0
+Professor Ellison weighed number0 pieces of metal for an experiment . The piece of iron weighed number1 pounds and the piece of aluminum weighed number2 pound . How much more did the piece of iron weigh than the piece of aluminum ?,- number1 number2,10.333333333333334,2.0 11.166666666666666 0.8333333333333334
+Neale makes number0 dollars per hour . He worked number1 hours and recieved number2 dollars in tips what is his salary ?,+ * number1 number0 number2,168.25,5.6 22.5 42.25
+"Dan joined his school 's band . He bought a clarinet for $ number0 , and a song book which was $ number1 . Dan found $ number2 in his pocket . How much did Dan spend at the music store ?",+ number0 number1,141.54,130.3 11.24 12.32
+"A worksheet had number0 problems on it . If a teacher had number1 worksheets to grade and had already graded number2 of them , how many more problems does she have to grade ?",* number0 - number1 number2,24.0,3.0 15.0 7.0
+Tom and his friend were buying trick decks from the magic shop for number0 dollars each . How much did they spend if Tom bought number1 decks and his friend bought number2 decks ?,* number0 + number1 number2,64.0,8.0 3.0 5.0
+Connie had some marbles . She gave number0 to Juan . Now she has number1 marbles left . How many did she have to start with ?,+ number0 number1,143.0,73.0 70.0
+A chef bought number0 kilograms of almonds and number1 kilograms of pecans . How many kilograms of nuts did the chef buy in all ?,+ number0 number1,0.52,0.14 0.38
+"There were number0 friends playing a video game online when number1 more players joined the game . If each player had number2 lives , how many lives did they have total ?",* number2 + number0 number1,32.0,2.0 2.0 8.0
+"Albert has number0 oranges stored in boxes . If there are number1 boxes , how many oranges must go in each box ?",/ number0 number1,5.0,35.0 7.0
+There are number0 oranges in a box . Jonathan takes number1 oranges . How many are left ?,- number0 number1,51.0,96.0 45.0
+Mary ’s mom is getting ready for Mary ’s birthday party . She blew up number0 balloons this morning and number1 balloons this afternoon . How many balloons did she blow up in all ?,+ number0 number1,11.0,6.0 5.0
+There were number0 kids on the soccer field . number1 kids decided to join in . Now how many kids are on the soccer field ?,+ number0 number1,36.0,14.0 22.0
+A restaurant served number0 slices of pie during lunch and number1 during dinner today . It served number2 of them yesterday . How many slices of pie were served today ?,+ number0 number1,12,7.0 5.0 8.0
+There are number0 marbles . number1 marbles more are added . How many are there total ?,+ number0 number1,11.0,4.0 7.0
+"A bucket contains number0 gallons of water . If Derek adds number1 gallons more , how many gallons will there be in all ?",+ number0 number1,9.8,3.0 6.8
+A pet store had number0 siamese cats and number1 house cats . During a sale they sold number2 cats . How many cats do they have left ?,- + number0 number1 number2,54.0,41.0 28.0 15.0
+Jason grew number0 watermelons and number1 turnips . Nancy grew number2 watermelons . How many watermelons did they grow in total ?,+ number0 number2,51,23.0 18.0 28.0
+"Mike made number0 dollars mowing lawns over the summer . If he spent number1 dollars buying new mower blades , how many number2 dollar games could he buy with the money he had left ?",/ - number0 number1 number2,9.0,69.0 24.0 5.0
+A box of books weighs number0 pounds . Each book weighs number1 pounds . How many books are there in the box ?,/ number0 number1,14.0,42.0 3.0
+Ezra drew a white line that was number0 inches long . Then he drew a blue line that was number1 inches long . How much longer was the white line than the blue line ?,- number0 number1,4.333333333333333,7.666666666666667 3.3333333333333335
+John can read number0 books a day . John reads every Monday and Tuesday . How many books would John read in number1 weeks ?,* + number0 number0 number1,48.0,4.0 6.0
+There are number0 calories in a candy bar . How many calories are there in number1 candy bars ?,* number0 number1,341.0,31.0 11.0
+Tom was at the beach for number0 days and found number1 seashells every day . How many seashells did Tom find during the beach trip ?,* number0 number1,35.0,5.0 7.0
+There are number0 cupcakes for number1 children to share . How much will each person get if they share the cupcakes equally ?,/ number0 number1,12.0,96.0 8.0
+"There were number0 friends playing a video game online when number1 more players joined the game . If each player had number2 lives , how many lives did they have total ?",* number0 + number0 number1,63.0,7.0 2.0 7.0
+"At the hardware store , number0 the nails are size 2d and number1 the nails are size 4d . What fraction of the nails are either size 2d or 4d ?",+ number0 number1,0.75,0.25 0.5
+A tailor cut number0 inch off a skirt and number1 inch off a pair of pants . How much more did the tailor cut off the skirt than the pants ?,- number0 number1,0.25,0.75 0.5
+A group of number0 friends went into a restaurant . The chef already had number1 chicken wings cooked but cooked number2 more for the group . If they each got the same amount how many would each person get ?,/ + number1 number2 number0,4.0,4.0 9.0 7.0
+"Luke was organizing his baseball cards in a binder with number0 on each page . If he had number1 new cards and number2 old cards to put in the binder , how many pages would he use ?",/ + number0 number2 number0,4.0,3.0 3.0 9.0
+"There are number0 students in the class and number1 tickets . If the tickets are divided equally among the students , how many does each student get ?",/ number1 number0,9.0,9.0 81.0
+"Fred has number0 yellow balloons , Sam has number1 yellow balloons , and Mary has number2 yellow balloons . The balloons cost number3 dollars . How many yellow balloons do they have in total ?",+ + number0 number1 number2,18,5.0 6.0 7.0 5.0
+Amy starts with number0 peanuts . Gerald gives Amy number1 more . How many peanuts does Amy end with ?,+ number0 number1,62.0,7.0 55.0
+Bruce has number0 eggs . Kimberly has number1 eggs . He loses number2 . How many eggs will Bruce have ?,- number0 number2,5.0,75.0 17.0 70.0
+For Halloween Emily received number0 pieces of candy . She ate number1 pieces then placed the rest into piles with number2 in each pile . How many piles could she make ?,/ - number0 number1 number2,3.0,54.0 33.0 7.0
+"Adam bought number0 boxes of chocolate candy and number1 boxes of caramel candy . If each box has number2 pieces inside it , how much candy did he have total ?",* number2 + number0 number1,28.0,2.0 5.0 4.0
+"Amy had number0 music files and number1 video files on her flash drive . If she deleted number2 of the files , how many files were still on her flash drive ?",- + number0 number1 number2,14.0,26.0 36.0 48.0
+If Norma wandered for number0 hours at number1 miles per hour . How far did Norma go ?,* number0 number1,15.0,5.0 3.0
+A bee has number0 legs . How many legs do number1 bees have ?,* number0 number1,12.0,6.0 2.0
+number0 birds were sitting in a tree . Some more fly up to the tree . Then there were number1 birds in the tree . How many more fly up to the tree ?,- number1 number0,81.0,231.0 312.0
+A store had number0 coloring books in stock . They ended up putting them on sale and getting rid of number1 of them . The put the ones they still had onto shelves with number2 on each shelf . How many shelves did they use ?,/ - number0 number1 number2,2.0,48.0 38.0 5.0
+Nancy was planting vegetables in her garden . She started with number0 seeds and planted number1 of them in the big garden and in each of her small gardens put number2 seeds each . How many small gardens did Nancy have ?,/ - number0 number1 number2,6.0,52.0 28.0 4.0
+Sara 's high school played number0 basketball games this year . The team won most of their games . They were defeated during number1 games . How many games did they win ?,- number0 number1,8,12.0 4.0
+Emily was playing a trivia game . In the first round she scored number0 points and in the second round she scored number1 points . In the last round she lost number2 points . How many points did she have at the end of the game ?,- + number0 number1 number2,1.0,16.0 33.0 48.0
+"A pet store has number0 bird cages . If each cage has number1 parrots and number2 parakeets in it , how many birds does the pet store have total ?",* number0 + number1 number2,40.0,4.0 8.0 2.0
+"While shopping for music online , Megan bought number0 country albums and number1 pop albums . Each album came with a lyric sheet and had number2 songs . How many songs did Megan buy total ?",* number2 + number0 number1,70.0,2.0 8.0 7.0
+Emily sprinted to Timothy 's house . It is number0 miles from Emily 's house to Timothy 's house . It took Emily number1 hours to get there . How fast did Emily go ?,/ number0 number1,5.0,10.0 2.0
+"Keith spent $ number0 on speakers , $ number1 on a CD player , and $ number2 on new tires . He wanted number3 CD 's for $ number4 , but did n't buy them . In total , how much did he spend ?",+ + number0 number1 number2,387.85,136.01 139.38 112.46 3.0 6.16
+Sandy grew number0 carrots . Sam grew number1 carrots . How many carrots did they grow in total ?,+ number0 number1,9,6.0 3.0
+"Each chocolate bar in a box cost $ number0 . If a box had number1 bars total and Emily sold all but number2 bars , how much money would she have made ?",* number0 - number1 number2,20.0,4.0 8.0 3.0
+"Jordan builds a model ' number0 Mustang . If the model car is number1 inches long and the scale is number2 to number3 , how many inches would the real Mustang be ?",* number1 number3,126.0,52.0 7.0 1.0 18.0
+A group of science students went on a field trip . They took number0 vans and number1 buses . There were number2 people in each van and number3 people in each bus . How many people went on the field trip ?,+ * number0 number2 * number1 number3,180.0,6.0 8.0 6.0 18.0
+"Henry earned number0 dollars for each lawn he mowed . If he had number1 lawns to mow , but forgot to mow number2 of them , how much money did he actually earn ?",* number0 - number1 number2,25.0,5.0 12.0 7.0
+There are number0 squirrels in a tree with number1 nuts . How many more squirrels are there than nuts ?,- number0 number1,2.0,4.0 2.0
+number0 dogs are barking . number1 more dogs start to bark . How many dogs are barking ?,+ number0 number1,40.0,30.0 10.0
+"Sara grew number0 pumpkins , but the rabbits ate number1 pumpkins . How many pumpkins does Sara have ?",- number0 number1,20,43.0 23.0
+"Jerry had number0 pieces of clothing to wash . He put number1 of them in one load , but decided to split the rest into number2 equal loads . How many pieces of clothing could go in each of the small loads ?",/ - number0 number1 number2,4.0,60.0 40.0 5.0
+Steven wants to split a collection of cards into groups of number0 . Steven has number1 cards . How many groups will be created ?,/ number1 number0,5.0,6.0 30.0
+Sara has number0 dozen golf balls . How many golf balls does she have ?,* number0 12,108.0,9.0
+"Tom had number0 dollars . If he spent number1 bucks on a new game , how many number2 dollar toys could he buy with the money he had left ?",/ - number0 number1 number2,2.0,57.0 49.0 4.0
+Jason grew number0 watermelons and number1 pumpkins . Sandy grew number2 watermelons . How many watermelons did they grow in total ?,+ number0 number2,48,37.0 30.0 11.0
+number0 students were sitting at each table in the lunchroom . There are number1 tables . How many students were sitting in the lunchroom ?,* number0 number1,204.0,6.0 34.0
+Jessica had number0 quarters in her bank . Her sister borrowed number1 of her quarters . How many quarters does Jessica have now ?,- number0 number1,5,8.0 3.0
+"A teacher has number0 pieces of candy . If there are number1 students , and the candy is divided evenly , How many pieces will each student get ?",/ number0 number1,8.0,344.0 43.0
+A garden has number0 rows and number1 columns of bean plans . How many plants are there in all ?,* number0 number1,780.0,52.0 15.0
+Jason had number0 quarters in his bank . His dad gave him number1 quarters . How many quarters does he have now ?,+ number0 number1,74,49.0 25.0
+Mike picked number0 pears and Jason picked number1 pears from the pear tree . Fred picked number2 apples from the apple tree . How many pears were picked in total ?,+ number0 number1,15,8.0 7.0 6.0
+Each banana costs $ number0 . How much do number1 bananas cost ?,* number0 number1,20.0,5.0 4.0
+A toy store had number0 giant stuffed bears in stock when they got another shipment with number1 bears in it . The put the bears onto shelves with number2 on each shelf . How many shelves did they use ?,/ + number0 number1 number2,3.0,17.0 10.0 9.0
+"Faye was playing a video game where she scores number0 points for each treasure she finds . If she found number1 treasures on the first level and number2 on the second , what would her score be ?",* number0 + number1 number2,56.0,7.0 2.0 6.0
+"Nina did a running drill to get in shape for soccer season . First , Nina ran number0 mile . Then she ran number1 mile and number2 mile . How many miles did Nina run in total ?",+ + number0 number1 number2,0.8333333333333334,0.08333333333333333 0.08333333333333333 0.6666666666666666
+"On Saturday , Sara spent $ number0 each on number1 tickets to a movie theater . She also rented a movie for $ number2 , and bought a movie for $ number3 . How much money in total did Sara spend on movies ?",+ + * number1 number0 number2 number3,36.78,10.62 2.0 1.59 13.95
+"Joyce has number0 bananas that must be put away in boxes . Fred comes to help and brings number1 cookies to share with Joyce . If there are number2 boxes , how many bananas must go in each box ?",/ number0 number2,4.0,40.0 18.0 10.0
+Chloe was playing a trivia game . In the first round she scored number0 points and in the second round she scored number1 points . In the last round she lost number2 points . How many points did she have at the end of the game ?,- + number0 number1 number2,86.0,40.0 50.0 4.0
+"Melanie , Benny , Sally , and Jessica each have number0 baseball cards . How many baseball cards do they have in all ?",* 4 number0,12.0,3.0
+"Kristi jogged for number0 of an hour , swam for number1 of an hour , and rode her bicycle for number2 of an hour . How long did she exercise ?",+ + number0 number1 number2,1.85,0.6 0.5 0.75
+"Bryan took a look at his books as well . If Bryan has number0 books in each of his number1 bookshelves , how many books does he have in total ?",* number0 number1,504.0,56.0 9.0
+"Tori is a school janitor . Last week , she picked up a total of number0 pieces of trash . If she picked up number1 pieces of trash in the classrooms , how many pieces of trash did Tori pick up outside the classrooms ?",- number0 number1,1232.0,1576.0 344.0
+There are number0 rulers in the drawer . Tim took number1 rulers from the drawer . How many rulers are now in the drawer ?,- number0 number1,21,46.0 25.0
+"There are number0 children in the classroom , each student will get number1 dozen pencils . How many pencils will the teacher have to give out ?",* number0 * number1 12,2208.0,46.0 4.0
+Greg and Sharon own neighboring cornfields . Greg harvested number0 acre of corn on Monday and Sharon harvested number1 acre . How many more acres did Greg harvest than Sharon ?,- number0 number1,0.3,0.4 0.1
+"There are number0 students in the class and number1 eggs . If the eggs are divided equally among the students , how many does each student get ?",/ number1 number0,8.0,7.0 56.0
+"Tammy drove number0 miles in one hour . At that rate , how far can she drive in number1 hours ?",* number0 number1,1980.0,55.0 36.0
+"During a school play , Jonah staffed the snack bar . He served number0 pitcher of lemonade during the first intermission , number1 pitcher during the second , and number2 pitcher during the third . How many pitchers of lemonade did Jonah pour in all ?",+ + number0 number1 number2,0.9166666666666666,0.25 0.4166666666666667 0.25
+Linda has number0 candies . Chloe has number1 . How many candies do they have in all ?,+ number0 number1,62.0,34.0 28.0
+There are number0 marbles in each box . How many marbles are in number1 boxes ?,* number0 number1,48.0,8.0 6.0
+"If books came from all the number0 continents that Bryan had been into and he collected number1 books per continent , how many books does he have from all number2 continents combined ?",* number0 number1,488.0,4.0 122.0 4.0
+"Ashley sold number0 boxes of Samoas . How many cases of number1 boxes , plus extra boxes does Ashley need ?",/ number0 number1,1.0,12.0 12.0
+"John made number0 dollars mowing lawns and number1 dollars weed eating . If he only spent number2 dollar a week , how long would the money last him ?",/ + number0 number1 number2,8.0,6.0 18.0 3.0
+"Adam earned number0 dollars for each lawn he mowed . If he had number1 lawns to mow , but forgot to mow number2 of them , how much money did he actually earn ?",* number0 - number1 number2,36.0,9.0 12.0 8.0
+Dan bought number0 dozen eggs from the grocery store to bake some cakes . How many eggs did Dan buy ?,* number0 12,108.0,9.0
+Benny worked number0 hours for number1 days . How many hours did he work in total ?,* number0 number1,18.0,3.0 6.0
+"Mike bought some toys . He bought marbles for $ number0 , a football for $ number1 , and spent $ number2 on a baseball . In total , how much did Mike spend on toys ?",+ + number0 number1 number2,20.52,9.05 4.95 6.52
+Mrs. Hilt is baking bread . She needs number0 cups of flour to bake number1 loaves of bread . How much flour will she need to make one loaf of bread ?,/ number0 number1,2.5,5.0 2.0
+There are number0 oak trees currently in the park . Park workers had to cut down number1 oak trees that were damaged . How many oak trees will the park have when the workers are finished ?,- number0 number1,7,9.0 2.0
+Melissa has number0 bananas . She shares number1 with Joshua . How many bananas will Melissa have ?,- number0 number1,84.0,88.0 4.0
+"Sam had to wash number0 short sleeve shirts and number1 long sleeve shirts before school . If he had only washed number2 of them by the time school started , how many did he not wash ?",- + number0 number1 number2,34.0,40.0 23.0 29.0
+There are number0 pencils in the drawer and number1 pencils on the desk . Dan placed number2 pencils on the desk . How many pencils are now there in total ?,+ + number0 number1 number2,78,43.0 19.0 16.0
+"Paige had number0 math problems and number1 science problems for homework . If she finished number2 of the problems at school , how many problems did she have to do for homework ?",- + number0 number1 number2,11.0,43.0 12.0 44.0
+"Alyssa bought some toys . She bought a football for $ number0 , and spent $ number1 on marbles . In total , how much did Alyssa spend on toys ?",+ number0 number1,12.3,5.71 6.59
+"Chloe was organizing her book case making sure each of the shelves had exactly number0 books on it . If she had number1 shelves of mystery books and number2 shelves of picture books , how many books did she have total ?",* number0 + number1 number2,54.0,6.0 5.0 4.0
+The school is planning a field trip . There are number0 students and number1 seats on each school bus . How many buses are needed to take the trip ?,/ number0 number1,5.0,45.0 9.0
+Vince 's bus ride to school is number0 mile and Zachary 's bus ride is number1 mile . How much longer is Vince 's bus ride than Zachary 's ?,- number0 number1,0.125,0.625 0.5
+"Mike joined his school 's band . He bought a trumpet for $ number0 , and a song book which was $ number1 . How much did Mike spend at the music store ?",+ number0 number1,151,145.16 5.84
+Nancy has saved number0 cents from selling lemonade . How many dollars does Nancy have ?,/ number0 100,49.0,4900.0
+Melanie goes fishing with Tom . Melanie catches number0 trout . Tom catches number1 times as many trout as Melanie . How many trout did Tom catch ?,* number0 number1,16.0,8.0 2.0
+Mary ’s car gets number0 miles per gallon of gas . How far can she drive on number1 gallons of gas ?,* number0 number1,280.0,20.0 14.0
+Jack starts with number0 marbles . He shares number1 with Rebecca . How many marbles does Jack end with ?,- number0 number1,29.0,62.0 33.0
+Each of farmer Cunningham 's number0 lambs is either black or white . There are number1 white ones . How many of Farmer Cunningham 's lambs are black ?,- number0 number1,5855.0,6048.0 193.0
+"Mary had number0 baseball cards , and number1 were torn . Fred gave Mary number2 new baseball cards . Mary bought number3 baseball cards . How many baseball cards does Mary have now ?",+ + number0 number2 number3,84,18.0 8.0 26.0 40.0
+Conner has number0 dollars in his bank account . Every month he spends number1 dollars . He does not add money to the account . How much money will Conner have in his account after number2 months ?,- number0 * number1 number2,13000.0,25000.0 1500.0 8.0
+"Maria was making baggies of cookies with number0 cookies in each bag . If she had number1 chocolate chip cookies and number2 oatmeal cookies , how many baggies could she make ?",/ + number1 number2 number0,6.0,3.0 2.0 16.0
+"Janet picked number0 tulips and number1 roses to make flower bouquets . If she only used number2 of the flowers though , how many extra flowers did Janet pick ?",- + number0 number1 number1,4.0,4.0 11.0 11.0
+Carolyn starts with number0 marbles and number1 oranges . She shares number2 with Diana . How many marbles does Carolyn end with ?,- number0 number2,5.0,47.0 6.0 42.0
+There are number0 crayons and number1 pencils in the drawer . Sam placed number2 crayons in the drawer . How many crayons are now there in total ?,+ number0 number2,53,41.0 26.0 12.0
+"Joan purchased a basketball game for $ number0 , and a racing game for $ number1 . How much did Joan spend on video games ?",+ number0 number1,9.43,5.2 4.23
+"Katie had number0 songs on her mp3 player . If she deleted number1 old songs from it and then added number2 new songs , how many songs does she have on her mp3 player ?",- + number0 number2 number1,28.0,11.0 7.0 24.0
+"There were number0 friends playing a video game online when number1 players quit . If each player left had number2 lives , how many lives did they have total ?",* number2 - number0 number1,24.0,10.0 7.0 8.0
+"At the town carnival Oliver rode the ferris wheel number0 times and the bumper cars number1 times . If each ride cost number2 tickets , how many tickets did he use ?",* number1 + number0 number1,30.0,7.0 3.0 3.0
+"Tom had number0 books . If he sold number1 of them and used the money he earned to buy number2 new books , how many books would Tom have ?",- + number0 number2 number1,39.0,5.0 4.0 38.0
+"Irwin 's family went on a camping trip in the mountains . On the first day , they hiked from their car to the campsite . First , they hiked number0 mile from the car to a stream , and number1 mile from the stream to a meadow . Then they hiked number2 mile from the meadow to the campsite . How many miles did Irwin 's family hike in all ?",+ + number0 number1 number2,0.7,0.2 0.4 0.1
+There are number0 scissors and number1 pencils in the drawer . Dan placed number2 scissors in the drawer . How many scissors are now there in total ?,+ number0 number2,52,39.0 22.0 13.0
+Sam went to number0 football games this year . He went to number1 games last year . How many football games did Sam go to in all ?,+ number0 number1,43.0,14.0 29.0
+A restaurant sold number0 pies every day for a week . How many pies were sold during the week ?,* number0 7,56.0,8.0
+Mrs. Sheridan has number0 cats . Mrs. Garrett has number1 cats . How many more cats does Mrs. Garrett have than Mrs. Sheridan ?,- number1 number0,13.0,11.0 24.0
+"Paul got a box of number0 crayons for his birthday . At the end of the school year , he only had number1 left . How many crayons had been lost or given away ?",- number0 number1,345.0,479.0 134.0
+Evelyn starts with number0 Skittles . She shares number1 with Christine . How many Skittles does Evelyn end with ?,- number0 number1,4.0,76.0 72.0
+"At the schools book fair Victor bought number0 adventure books and number1 mystery books . If number2 of the books were used , how many new books did he buy ?",- + number0 number1 number2,53.0,32.0 37.0 16.0
+"A chef needs to cook number0 potatoes . He has already cooked number1 . If each potato takes number2 minutes to cook , how long will it take him to cook the rest ?",* number2 - number0 number1,72.0,15.0 6.0 8.0
+There are number0 pencils and number1 scissors in the drawer . Joan placed number2 pencils in the drawer . How many pencils are now there in all ?,+ number0 number2,77,48.0 40.0 29.0
+"Fred has number0 green balloons , he gave Sandy number1 of the balloons . How many green balloons does he now have ?",- number0 number1,488,709.0 221.0
+"Mrs. Hilt looked at her car 's odometer before a trip . The odometer showed that she had traveled number0 miles . When she stopped for lunch , the odometer read number1 . How many miles had she traveled ?",- number1 number0,159.7,212.3 372.0
+Mrs. Hilt bought an ice cream cone for number0 cents . How much would number1 ice cream cones cost ?,* number0 number1,198.0,99.0 2.0
+"Robin was making baggies of cookies with number0 cookies in each bag . If she had number1 chocolate chip cookies and number2 oatmeal cookies , how many baggies could she make ?",/ + number1 number2 number0,8.0,6.0 23.0 25.0
+"Tom has number0 violet balloons , he gave Fred number1 of the balloons . How many violet balloons does he now have ?",- number0 number1,14,30.0 16.0
+"There were originally number0 houses in Lincoln County . During a housing boom , developers built number1 more . How many houses are there now in Lincoln County ?",+ number0 number1,118558.0,20817.0 97741.0
+"Chloe baked number0 brownies , but needed number1 total for her party . If she used number2 cups of flour on each one , how much cups of flour does she still need ?",* number2 - number1 number0,54.0,7.0 16.0 6.0
+Martin strolled to Lawrence 's house . It is number0 miles from Martin 's house to Lawrence 's house . It took Martin number1 hours to get there . How fast did Martin go ?,/ number0 number1,2.0,12.0 6.0
+For the school bake sale Paige made pastries . She baked number0 cupcakes and number1 cookies . After the sale she had number2 to take back home . How many pastries did she sell ?,- + number0 number1 number2,41.0,36.0 9.0 4.0
+Heather has number0 oranges . Russell takes number1 away . How many oranges will Heather have ?,- number0 number1,25.0,60.0 35.0
+Sally had number0 quarters in her bank . She spent number1 of her quarters . How many quarters does she have now ?,- number0 number1,342,760.0 418.0
+"While shopping , Emily bought number0 green towels and number1 white towels . If she gave her mother number2 of them , how many towels did Emily end up with ?",- + number0 number1 number2,9.0,5.0 30.0 26.0
+"Melanie bought a Batman game for $ number0 , a strategy game for $ number1 , and a Superman game for $ number2 . Melanie already owns number3 games . How much did Melanie spend on video games ?",+ + number0 number1 number2,22.58,6.95 7.9 7.73 4.0
+"Ron weighed number0 colored metal balls during a science class . The blue ball weighed number1 pounds and the brown ball weighed number2 pounds . If Ron places both balls on the scale at the same time , what will the scale read ?",+ number1 number2,9.12,2.0 6.0 3.12
+Eric has number0 boxes of pencils . Each box holds number1 pencils . How many pencils does Eric have ?,* number0 number1,27.0,3.0 9.0
+Harold has number0 marbles . He gets number1 more from Steve . How many marbles does Harold have in all ?,+ number0 number1,69.0,53.0 16.0
+Sarah was planting vegetables in her garden . She started with number0 seeds and planted number1 of them in the big garden and in each of her small gardens put number2 seeds each . How many small gardens did Sarah have ?,/ - number0 number1 number2,3.0,21.0 12.0 3.0
+"Dave bought number0 boxes of chocolate candy and gave number1 to his little brother . If each box has number2 pieces inside it , how many pieces did Dave still have ?",* number2 - number0 number1,21.0,12.0 5.0 3.0
+"Dave had to wash number0 short sleeve shirts and number1 long sleeve shirts before school . If he had only washed number2 of them by the time school started , how many did he not wash ?",- + number0 number1 number2,16.0,9.0 27.0 20.0
+"There are number0 students trying out for the school 's trivia teams . If number1 of them did n't get picked for the team and the rest were put into number2 groups , how many students would be in each group ?",/ - number0 number1 number2,5.0,25.0 15.0 2.0
+"Sara grew number0 onions , Sally grew number1 onions , and Fred grew number2 onions . How many onions did they grow in all ?",+ + number0 number1 number2,18.0,4.0 5.0 9.0
+There are number0 bicycles and number1 tricycles in the storage area at Danny 's apartment building . Each bicycle has number2 wheels and each tricycle has number3 wheels . How many wheels are there in all ?,+ * number0 number2 * number1 number3,90.0,24.0 14.0 2.0 3.0
+Mary got fast food for lunch . Mary spent $ number0 on soup and $ number1 on a salad . Mary paid with a number2 dollar bill . What was the total of the lunch bill ?,+ number0 number1,5.88,1.08 4.8 20.0
+"At lunch a waiter had number0 customers and number1 of them did n't leave a tip . If he got $ number2 each from the ones who did tip , how much money did he earn ?",* number2 - number0 number1,27.0,7.0 4.0 9.0
+"April 's discount flowers was having a sale where each flower was number0 dollars . If Katie bought number1 roses and number2 daisies , how much did she spend ?",* number0 + number1 number2,60.0,6.0 5.0 5.0
+"Kaleb had number0 dollars . If he spent number1 bucks on a new game , how many number2 dollar toys could he buy with the money he had left ?",/ - number0 number1 number2,2.0,12.0 8.0 2.0
+A carpenter bought a piece of wood that was number0 centimeters long . Then he sawed number1 centimeters off the end . How long is the piece of wood now ?,- number0 number1,6.6,8.9 2.3
+Joan picked number0 oranges and Sara picked number1 oranges . Alyssa picked number2 pears . How many oranges were picked in total ?,+ number0 number1,47,37.0 10.0 30.0
+A fruit farm packs oranges in boxes that hold number0 each . One day it packs number1 oranges . How many boxes did they use ?,/ number1 number0,265.0,10.0 2650.0
+"Adam had number0 dollars . At the store he spent $ number1 on a new game . If he got another number2 dollars for his allowance , how much money does he have now ?",- + number0 number2 number1,8.0,5.0 2.0 5.0
+A cereal box holds number0 cups of cereal . Each serving is number1 cups . How many servings are in the whole box ?,/ number0 number1,9.0,18.0 2.0
+"Betty also bought number0 shiny blue round stones . If number1 pieces of this stone is in each bracelet , how many bracelets of blue shiny round stones will there be ?",/ number0 number1,10.0,140.0 14.0
+"Fred found number0 seashells on the beach , he gave Jessica number1 of the seashells . How many seashells does he now have ?",- number0 number1,22.0,47.0 25.0
+"While playing at the arcade , Ned won number0 tickets playing ' whack a mole ' and number1 tickets playing ' skee ball ' . If he was trying to buy candy that cost number2 tickets a piece , how many could he buy ?",/ + number0 number1 number2,5.0,26.0 19.0 9.0
+"Luke was putting his spare change into piles . He had number0 piles of quarters and number1 piles of dimes . If each pile had number2 coins in it , how many coins did he have total ?",* number2 + number0 number1,30.0,5.0 5.0 3.0
+"A waiter had number0 tables he was waiting on , with number1 women and number2 men at each table . How many customers total did the waiter have ?",* number0 + number0 number2,63.0,7.0 7.0 2.0
+"A pet shelter had number0 puppies when another number1 were brought in . If number2 puppies a day are adopted , how long would it take for all of them to be adopted ?",/ + number0 number1 number2,9.0,8.0 19.0 3.0
+Mrs. Hilt bought number0 pizzas for $ number1 each . What was the total amount she paid for the three pizzas ?,* number0 number1,24.0,3.0 8.0
+Ethan has number0 presents . Alissa has number1 more than Ethan . How many presents does Alissa have ?,+ number0 number1,53.0,31.0 22.0
+A store had number0 oranges in a bin . If they threw away number1 of the old ones and put number2 new ones in the bin how many would be in the bin ?,- + number0 number2 number1,60.0,31.0 9.0 38.0
+"Carol and her mom were picking carrots from their garden . Carol picked number0 and her mother picked number1 . If only number2 of the carrots were good , how many bad carrots did they have ?",- + number0 number1 number2,7.0,29.0 16.0 38.0
+Lemon heads come in packages of number0 . Louis ate number1 Lemon Heads . How many whole boxes did he eat and how many Lemon Heads does he have left ?,/ number1 number0,9.0,6.0 54.0
+"Kaleb had saved up number0 dollars . If he received another number1 dollars for his allowance , how many number2 dollar toys could he buy ?",/ + number0 number1 number2,6.0,21.0 15.0 6.0
+A restaurant made number0 hamburgers to serve during lunch . Only number1 were actually served . How many hamburgers were over from lunch ?,- number0 number1,6,9.0 3.0
+"A new building needed number0 windows . The builder had already installed number1 of them . If it takes number2 hours to install each window , how long will it take him to install the rest ?",* number1 - number0 number1,18.0,9.0 6.0 6.0
+"A florist had number0 roses . If she sold number1 of them and then later picked number2 more , how many roses would she have ?",- + number0 number2 number1,56.0,50.0 15.0 21.0
+Sam found number0 seashells and Mary found number1 seashells on the beach . How many seashells did they find together ?,+ number0 number1,65.0,18.0 47.0
+Rachel strolled to Nicholas 's house . It is number0 miles from Rachel 's house to Nicholas 's house . It took Rachel number1 hours to get there . How fast did Rachel go ?,/ number0 number1,2.0,10.0 5.0
+Dan has number0 violet balloons . Tim has number1 times more violet balloons than Dan . How many violet balloons does Tim have ?,* number0 number1,203.0,29.0 7.0
+For homework Amy had number0 math problems and number1 spelling problems . If she can finish number2 problems in an hour how long will it take her to finish all the problems ?,/ + number0 number1 number2,6.0,18.0 6.0 4.0
+"A pet store has number0 bird cages . If each cage has number1 parrots and number2 parakeets in it , how many birds does the pet store have total ?",* number0 + number0 number2,48.0,6.0 6.0 2.0
+Jeffrey wants to split a collection of bottle caps into groups of number0 . Jeffrey has number1 bottle caps . How many groups will be created ?,/ number1 number0,6.0,2.0 12.0
+There are number0 marbles in each box . How many marbles are in number1 boxes ?,* number0 number1,18.0,6.0 3.0
+"There were number0 girls and number1 boys trying out for the schools basketball team . If only number2 of them got called back , how many students did n't make the cut ?",- + number0 number1 number2,47.0,6.0 48.0 7.0
+Mrs. Franklin had number0 Valentines . Mrs. Franklin gave some to her students . Now she has number1 . How many Valentines did Mrs. Franklin give to her students ?,- number0 number1,42.0,58.0 16.0
+A restaurant served number0 cakes during lunch and number1 during dinner today . The restaurant served number2 cakes yesterday . How many cakes were served in total ?,+ + number0 number1 number2,14,5.0 6.0 3.0
+"Gwen was organizing her book case making sure each of the shelves had exactly number0 books on it . If she had number1 shelves of mystery books and number2 shelves of picture books , how many books did she have total ?",* number0 + number1 number2,72.0,9.0 3.0 5.0
+A store had number0 oranges in a bin . If they threw away number1 of the old ones and put number2 new ones in the bin how many would be in the bin ?,- + number0 number2 number1,34.0,50.0 40.0 24.0
+A number0 ounce can of cranberry juice sells for number1 cents . Give the unit cost in cents per ounce .,/ number1 number0,7.0,12.0 84.0
+Keith has number0 books . Jason has number1 books . How many books do they have together ?,+ number0 number1,41,20.0 21.0
+"At the fair there were number0 people in line for the bumper cars . If number1 of them got tired of waiting and left and number2 more got in line , how many people would be in line ?",- + number0 number2 number1,17.0,12.0 10.0 15.0
+Elizabeth is inviting number0 friends to a party . She has number1 cookies . How many cookies will each friend get ?,/ number0 number1,1.0,5.0 5.0
+"A pet store has number0 bird cages . If each cage has number1 parrots and number2 parakeets in it , how many birds does the pet store have total ?",* number0 + number1 number2,72.0,9.0 2.0 6.0
+"At Mrs. Hilt 's house , there was number0 inches of snow , and Brecknock Elementary School received number1 inches of snow . How much more snow did Mrs. Hilt 's house have ?",- number0 number1,12.0,29.0 17.0
+"Bianca had number0 songs on her mp3 player . If she deleted number1 old songs from it and then added number2 new songs , how many songs does she have on her mp3 player ?",- + number0 number2 number1,64.0,34.0 14.0 44.0
+Rachel was unboxing some of her old winter clothes . She found number0 boxes of clothing and inside each box there were number1 scarves and number2 mittens . How many pieces of winter clothing did Rachel have total ?,* number0 + number1 number2,49.0,7.0 3.0 4.0
+Gavin has number0 shirts . number1 are blue the rest are green . How many green shirts does Gavin have ?,- number0 number1,17.0,23.0 6.0
+"The number of gears a machine can make varies directly by how long it operates . If it can make number0 gears in number1 hours , How many gears can it make in number2 hours ?",/ * number2 number0 number1,2349.0,2088.0 8.0 9.0
+"Roger had number0 pieces of clothing to wash . He put number1 of them in one load , but decided to split the rest into number2 equal loads . How many pieces of clothing could go in each of the small loads ?",/ - number0 number1 number2,8.0,120.0 48.0 9.0
+There are number0 pencils in the drawer . Nancy placed number1 more pencils in the drawer . How many pencils are now there in total ?,+ number0 number1,72.0,27.0 45.0
+"While shopping , Maria bought number0 green towels and number1 white towels . If she gave her mother number2 of them , how many towels did Maria end up with ?",- + number0 number1 number2,19.0,40.0 44.0 65.0
+Jessica had number0 quarters in her bank . Her sister borrowed number1 of her quarters . How many quarters does Jessica have now ?,- number0 number1,5.0,8.0 3.0
+"Each child has number0 candies . If there are number1 children , how many candies are there in total ?",* number0 number1,18.0,2.0 9.0
+"Paige picked number0 flowers for her friend ’s wedding . She was making bouquets with number1 flowers in each one . If number2 of the flowers wilted before the wedding , how many bouquets could she still make ?",/ - number0 number2 number1,5.0,53.0 7.0 18.0
+Warren has number0 guests coming to his party . Each table will hold number1 guests . How many tables will he need ?,/ number0 number1,63.0,252.0 4.0
+"Victor was helping the cafeteria workers pick up lunch trays , but he could only carry number0 trays at a time . If he had to pick up number1 trays from one table and number2 trays from another , how many trips will he make ?",/ + number1 number2 number0,4.0,7.0 23.0 5.0
+"Ned had number0 video games but number1 of them were n't working . If he wanted to sell the working games for $ number2 each , how much money could he earn ?",* number2 - number0 number1,63.0,15.0 6.0 7.0
+Cindy ’s mom baked number0 cookies . Paul ’s dad baked number1 cookies . They both brought them to school for a party . How many cookies did they have altogether ?,+ number0 number1,2327.0,1215.0 1112.0
+"If there are number0 erasers in a box and Patrick puts number1 more erasers inside , how many erasers are in the box ?",+ number0 number1,85.0,76.0 9.0
+"For the school bake sale Katie made number0 cupcakes . If she sold number1 of them and then made number2 more , how many cupcakes would she have ?",- + number0 number1 number1,26.0,26.0 20.0 20.0
+"A chef needs to cook number0 potatoes . He has already cooked number1 . If each potato takes number2 minutes to cook , how long will it take him to cook the rest ?",* number2 - number0 number1,63.0,15.0 8.0 9.0
+Lucy has number0 fish . How many more fish does she need to buy to have number1 fish ?,- number1 number0,68.0,212.0 280.0
+There are number0 boys and some girls on the playground . There are number1 children altogether . How many girls are on the playground ?,- number1 number0,77.0,40.0 117.0
+Carol collects number0 peanuts . Carol 's father gives Carol number1 more . How many peanuts does Carol have ?,+ number0 number1,7.0,2.0 5.0
+"Each day , the polar bear at Richmond 's zoo eats number0 of a bucket of trout and number1 of a bucket of salmon . How many buckets of fish does the polar bear eat daily ?",+ number0 number1,0.6,0.2 0.4
+"Mary loves eating fruits . Mary paid $ number0 for berries , $ number1 for apples , and $ number2 for peaches . In total , how much money did she spend ?",+ + number0 number1 number2,34.72,11.08 14.33 9.31
+"Mike made number0 dollars mowing lawns over the summer . If he spent number1 dollars buying new mower blades , how many number2 dollar games could he buy with the money he had left ?",/ - number0 number1 number2,9.0,101.0 47.0 6.0
+"Mike joined his school 's band . He bought a trumpet for $ number0 , and a song book which was $ number1 . How much did Mike spend at the music store ?",+ number0 number1,151.0,145.16 5.84
+There are number0 popular trees currently in the park . Park workers will plant number1 more popular trees today . How many popular trees will the park have when the workers are finished ?,+ number0 number1,98.0,25.0 73.0
+"Fred has number0 green balloons , he gave Sandy number1 of the balloons . How many green balloons does he now have ?",- number0 number1,488.0,709.0 221.0
+"Kendra made punch for her friend 's birthday party . She used number0 of a gallon of grape juice , number1 of a gallon of cranberry juice , and number2 of a gallon of club soda . How many gallons of punch did Kendra make ?",+ + number0 number1 number2,0.75,0.25 0.375 0.125
+"Benny goes to lunch with Sally and Sandy . The total bill came to number0 dollars . They decided to equally split up the bill , how much will each person have to pay ?",/ number0 3,5.0,15.0
+"Haley has number0 magazines in her cabinet . She plans to send it to the recycling office in their area . If she places it in boxes which can contain number1 magazines , how many boxes will Hayley use ?",/ number0 number1,7.0,63.0 9.0
+A group of number0 friends went into a restaurant . The chef already had number1 chicken wings cooked but cooked number2 more for the group . If they each got the same amount how many would each person get ?,/ + number0 number1 number0,3.0,3.0 6.0 3.0
+"A bucket contains number0 gallons of water . If Derek adds number1 gallons more , how many gallons will there be in all ?",+ number0 number1,9.8,3.0 6.8
+"Upon arriving at the circus , they went to the ticket booth and asked how much each ticket cost . If each ticket costs number0 dollars and they bought number1 tickets , how much money did they spend on tickets ?",* number0 number1,308.0,44.0 7.0
+Mrs. Sheridan has number0 fish . Her sister gave her number1 more fish . How many fish does she have now ?,+ number0 number1,69.0,22.0 47.0
+Joan had number0 dimes in her bank . She spent number1 of her dimes . How many dimes does she have now ?,- number0 number1,3.0,5.0 2.0
+Connie has number0 red markers and number1 blue markers . How many markers does she have altogether ?,+ number0 number1,105.0,41.0 64.0
+"On number0 consecutive passes , a football team gain number1 yards , loses number2 yards , gains number3 yards . What number represents the total net net yardage ?",+ - number1 number2 number3,0.0,3.0 7.0 31.0 24.0
+Connie has number0 red markers and number1 blue markers . How many markers does she have altogether ?,+ number0 number1,3343.0,2315.0 1028.0
+There are number0 calories in a candy bar . How many calories are there in number1 candy bars ?,* number0 number1,24.0,8.0 3.0
+"Ron weighed two colored metal balls during a science class . The blue ball weighed number0 pounds and the brown ball weighed number1 pounds . If Ron places both balls on the scale at the same time , what will the scale read ?",+ number0 number1,9.12,6.0 3.12
+Mrs. Hilt has number0 markers . They are divided equally into number1 packages . Mrs. Hilt wants to know how many markers are in each package ?,/ number0 number1,5.0,35.0 7.0
+"While shopping for music online , Isabel bought number0 country albums and number1 pop albums . Each album came with a lyric sheet and had number2 songs . How many songs did Isabel buy total ?",* number2 + number0 number1,72.0,4.0 5.0 8.0
+Joshua has number0 bottle caps . He buys number1 more . How many bottle caps does Joshua have in all ?,+ number0 number1,47.0,40.0 7.0
+Kimberly went to the store number0 times last month . She buys number1 peanuts each time she goes to the store . How many peanuts did Kimberly buy last month ?,* number0 number1,21.0,3.0 7.0
+"There were number0 friends playing a video game online when number1 players quit . If each player left had number2 lives , how many lives did they have total ?",* number1 - number0 number1,15.0,8.0 5.0 5.0
+Keith has number0 books . Jason has number1 books . How many books do they have together ?,+ number0 number1,41.0,20.0 21.0
+Roger has number0 blocks . number1 are eaten by a hippopotamus . How many blocks will Roger have ?,- number0 number1,90.0,92.0 2.0
+For homework Faye had number0 math problems and number1 spelling problems . If she can finish number2 problems in an hour how long will it take her to finish all the problems ?,/ + number0 number1 number2,5.0,13.0 2.0 3.0
+"A company invited number0 people to a luncheon , but number1 of them did n't show up . If the tables they had held number2 people each , how many tables do they need ?",/ - number0 number1 number2,2.0,18.0 12.0 3.0
+Megan has number0 seashells . How many more seashells does she need to find to have number1 seashells in her collection ?,- number1 number0,6.0,19.0 25.0
+Eric wants to split a collection of peanuts into groups of number0 . Eric has number1 peanuts . How many groups will be created ?,/ number1 number0,8.0,8.0 64.0
+There were a total of number0 hockey games a month . The season is played for number1 months . How many hockey games are in the seasons ?,* number0 number1,182.0,13.0 14.0
+There are number0 oranges in a box . Paula takes number1 oranges . How many are left ?,- number0 number1,15.0,22.0 7.0
+Jose has number0 peanuts . Kenya has number1 more than Jose . How many peanuts does Kenya have ?,+ number0 number1,133.0,85.0 48.0
+"Luke made number0 dollars mowing lawns and number1 dollars weed eating . If he only spent number2 dollar a week , how long would the money last him ?",/ + number0 number1 number2,9.0,9.0 18.0 3.0
+Anna collects number0 blocks . Anna 's father gives Anna number1 more . How many blocks does Anna have ?,+ number0 number1,14.0,6.0 8.0
+Third - grade students went to a concert in number0 buses . Each bus took number1 students . How many students went to the concert ?,* number0 number1,360.0,8.0 45.0
+"While playing a trivia game , George answered number0 questions correct in the first half and number1 questions correct in the second half . If each question was worth number2 points , what was his final score ?",* number2 + number0 number1,30.0,6.0 4.0 3.0
+There are number0 walnut trees currently in the park . Park workers will plant number1 walnut trees today . How many walnut trees will the park have when the workers are finished ?,+ number0 number1,211,107.0 104.0
+William has number0 bottle caps . He buys number1 more . How many bottle caps does William have in all ?,+ number0 number1,43.0,2.0 41.0
+Carlos starts with number0 bananas . number1 are eaten by a hippopotamus . How many bananas does Carlos end with ?,- number0 number1,36.0,39.0 3.0
+"When Jake had number0 cat , he needed to serve number1 can of cat food each day . Now that Jake has adopted a second cat , he needs to serve a total of number2 can each day . How much extra food is needed to feed the second cat ?",- number2 number1,0.4,1.0 0.5 0.9
+Ernest starts with number0 crayons . Jennifer takes number1 away . How many crayons does Ernest end with ?,- number0 number1,11.0,17.0 6.0
+"Jason joined his school 's band . He bought a flute for $ number0 , a music stand for $ number1 , and a song book for $ number2 . How much did Jason spend at the music store ?",+ + number0 number1 number2,158.35,142.46 8.89 7.0
+"Maria bought number0 new chairs and number1 new tables for her house . If she spent number2 minutes on each piece furniture putting it together , how many minutes did it take her to finish ?",* number2 + number0 number1,32.0,2.0 2.0 8.0
+In fourth grade there were number0 students at the start of the year . During the year number1 students left and number2 new students came to school . How many students were in fourth grade at the end ?,- + number0 number2 number1,48.0,10.0 4.0 42.0
+Andrew spent number0 day working on his Science report . He worked for number1 hours each day . How many hours did he work ?,* number0 number1,7.5,3.0 2.5
+"Joshua has number0 Skittles and number1 eggs . If he shares the Skittles among number2 friends , how many Skittles does each friend get ?",/ number0 number2,8.0,40.0 6.0 5.0
+Mike picked number0 oranges and Melanie picked number1 oranges . Fred picked number2 apples . How many oranges were picked in total ?,+ number0 number1,227,123.0 104.0 130.0
+"During a visit to an orchard , Charlie picked number0 bag of Golden Delicious apples , number1 bag of Macintosh apples , and number2 bag of Cortland apples . How many bags of fruit did Charlie pick in total ?",+ + number0 number1 number2,0.6666666666666666,0.16666666666666666 0.16666666666666666 0.3333333333333333
+"There were number0 friends playing a video game online when number1 more players joined the game . If each player had number2 lives , how many lives did they have total ?",* number2 + number0 number1,27.0,4.0 5.0 3.0
+"Olivia uploaded number0 pictures from her phone and number1 from her camera to facebook . If she sorted the pics into number2 different albums with the same amount of pics in each album , how many pictures were in each of the albums ?",/ + number0 number1 number2,5.0,5.0 35.0 8.0
+"Jessica grew number0 watermelons and number1 carrots , but the rabbits ate number2 watermelons . How many watermelons does Jessica have ?",- number0 number2,8,35.0 30.0 27.0
+The Sumata family took a number0 day vacation by car . Each day they drove number1 miles . How many total miles did they drive ?,* number0 number1,1250.0,5.0 250.0
+A restaurant served number0 pies during lunch and number1 during dinner today . The restaurant served number2 pies and number3 pizzas yesterday . How many pies were served in total ?,+ + number0 number1 number2,20,4.0 9.0 7.0 2.0
+"If Karen sold number0 boxes of Tagalongs , how many cases of number1 boxes does Karen pickup from the cookie mom ?",/ number0 number1,3.0,36.0 12.0
+There are number0 dogwood trees currently in the park . Park workers will plant number1 dogwood trees today and number2 dogwood trees tomorrow . How many dogwood trees will the park have when the workers are finished ?,+ + number0 number1 number2,100,39.0 41.0 20.0
+A truck carrying number0 pounds of sand travels to a construction yard and loses number1 pounds of sand along the way . How much sand does the truck have when it arrives at the yard ?,- number0 number1,1.7,4.1 2.4
+Brandon has number0 Skittles . Bonnie has number1 Skittles . He loses number2 . How many Skittles will Brandon have ?,- number0 number2,87.0,96.0 4.0 9.0
+"Marta picked two pumpkins . The first pumpkin weighed number0 pounds , and the second pumpkin weighed number1 pounds . How much did the two pumpkins weigh all together ?",+ number0 number1,12.7,4.0 8.7
+Dan has $ number0 . He bought a candy bar for $ number1 . How much money is left ?,- number0 number1,2.0,3.0 1.0
+Dan picked number0 limes and gave Sara number1 of the limes . How many limes does Dan have now ?,- number0 number1,5,9.0 4.0
+James rode number0 miles at number1 miles per hour . How long did James ride ?,/ number0 number1,5.0,80.0 16.0
+"Sue ’s mother made number0 cookies . She put the cookies in bags , with number1 cookies in each bag . How many bags could she fill up ?",/ number0 number1,25.0,75.0 3.0
+"Paco 's Countertop Company purchased pieces of marble from a quarry . The weights of the pieces they purchased were number0 of a ton , number1 of a ton , and number2 of a ton . How many tons of marble did Paco 's Countertop Company purchase in all ?",+ + number0 number1 number2,0.75,0.3333333333333333 0.3333333333333333 0.08333333333333333
+"Alyssa bought some toys . She bought a football for $ number0 , and spent $ number1 on marbles . In total , how much did Alyssa spend on toys ?",+ number0 number1,12.3,5.71 6.59
+The Ferris wheel in Paradise Park has number0 seats . Each seat can hold number1 people . How many people can ride the Ferris wheel at the same time ?,* number0 number1,84.0,14.0 6.0
+Melanie grew number0 turnips . Benny grew number1 turnips . How many turnips did they grow in all ?,+ number0 number1,252.0,139.0 113.0
+A perfect score is number0 points . How many points would you have after number1 perfect games in a row ?,* number0 number1,63.0,21.0 3.0
+Sandy grew number0 carrots and number1 turnips . Mary grew number2 carrots . How many carrots did they grow in all ?,+ number0 number2,14,8.0 7.0 6.0
+"Paul bought number0 boxes of chocolate candy and number1 boxes of caramel candy . If each box has number2 pieces inside it , how much candy did he have total ?",* number2 + number0 number1,90.0,6.0 4.0 9.0
+There are number0 oak trees currently in the park . Park workers had to cut down number1 oak trees that were damaged . How many oak trees will be in the park when the workers are finished ?,- number0 number1,15.0,33.0 18.0
+"Last Saturday , Marie sold number0 magazines and number1 newspapers . What is the total number of reading materials she sold ?",+ number0 number1,700.0,425.0 275.0
+"A company painted some houses in Hancock County white and blue using a total of number0 gallons of paint . If they used number1 gallons of white paint , how many gallons of blue paint did the company use ?",- number0 number1,6029.0,6689.0 660.0
+"Ned was trying to expand his game collection . He bought number0 games from a friend and bought number1 more at a garage sale . If number2 of the games did n't work , how many good games did he end up with ?",- + number0 number1 number2,14.0,11.0 22.0 19.0
+"Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds number0 of a bottle at the first table , number1 of a bottle at the second table , and number2 of a bottle at the third table . Altogether , how many bottles of mustard does the waitress find ?",+ + number0 number1 number2,0.875,0.25 0.25 0.375
+"Faye and her mom were picking carrots from their garden . Faye picked number0 and her mother picked number1 . If only number2 of the carrots were good , how many bad carrots did they have ?",- + number0 number1 number2,16.0,23.0 5.0 12.0
+Melanie had number0 dimes in her bank . Her dad gave her number1 dimes and her mother gave her number2 dimes . How many dimes does Melanie have now ?,+ + number0 number1 number2,19,7.0 8.0 4.0
+"Terrell hiked number0 miles on Saturday . Then , on Sunday , he hiked another number1 miles . How far did Terrell hike all together ?",+ number0 number1,9.8,8.2 1.6
+"Joan has number0 blue balloons , Sally has number1 blue balloons , and Jessica has number2 blue balloons . How many blue balloons do they have in total ?",+ + number0 number1 number2,16,9.0 5.0 2.0
+The Silvergrove Public Library used a grant to purchase number0 books . Now the library has a total of number1 books . How many books did the library have before the grant ?,- number1 number0,5935.0,2647.0 8582.0
+"Shelby ’s teacher gives out gold stars for great math work . Yesterday , Shelby earned number0 gold stars . Today , she earned number1 more . How many gold stars did Shelby earn in all ?",+ number0 number1,7.0,4.0 3.0
+How many yards of material from a number0 yard length of cloth remains after number1 pieces each number2 yards long and number3 pieces each number4 long are removed ?,- - number0 * number1 number2 * number3 number4,2.25,24.0 3.0 3.5 5.0 2.25
+A restaurant served number0 cakes during lunch and number1 during dinner today . How many cakes were served today ?,+ number0 number1,15,6.0 9.0
+A pet store had number0 puppies . In one day they sold number1 of them and put the rest into cages with number2 in each cage . How many cages did they use ?,/ - number0 number1 number2,5.0,81.0 41.0 8.0
+"The distance measured on a map varies directly with the actual distance . If number0 cm represents number1 kilometers , how many kilometers are represented by number2 cm ?",* number1 number2,175.0,1.0 25.0 7.0
+"A waiter at ' The Greasy Spoon ' restaurant had number0 customers to wait on . During the lunch rush he added another number1 customers . If number2 of the customers did n't leave him a tip , how many customers did leave a tip ?",- + number0 number1 number2,15.0,29.0 20.0 34.0
+Jessica is baking a cake . The recipe calls for number0 cups of flour and number1 cups of sugar . She already put in number2 cups of flour . How many cups of flour does she need to add ?,- number0 number2,4,8.0 2.0 4.0
+Lillian collects number0 candies . Lillian 's father gives Lillian number1 more . How many candies does Lillian have ?,+ number0 number1,93.0,88.0 5.0

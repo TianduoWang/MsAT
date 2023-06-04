@@ -1,0 +1,21 @@
+exp_group: MAWPS-Gen
+run_name: mawps-fold0
+dataset_name: mawps/fold0
+train_bz: 16
+eval_bz: 16
+lr: 1.e-5
+max_grad_norm: 1.0
+train_steps: 10000
+
+scheduler_type: linear
+warmup_steps: 0
+decay_ratio: 1.0
+
+eval_steps:  100
+max_input_len: 128
+max_output_len: 64
+use_actual_num: True
+output_as_code: True
+use_adapter: True
+adapter_tuning: False
+model_init_pth: Tianduo/MsAT-RoBERTaGen

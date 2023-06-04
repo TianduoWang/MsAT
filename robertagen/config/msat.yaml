@@ -1,0 +1,22 @@
+exp_group: MSAT-Gen
+run_name: msat
+dataset_name: msat
+train_bz: 32
+eval_bz: 32
+lr: 3.e-5
+max_grad_norm: 0.1
+train_steps: 10000
+
+scheduler_type: linear
+warmup_steps: 0
+decay_ratio: 0.8
+
+eval_steps:  20000
+max_input_len: 128
+max_output_len: 64
+use_actual_num: True
+output_as_code: True
+use_adapter: True
+adapter_tuning: True
+model_init_pth: random
+device_name: cuda:1

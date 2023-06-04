@@ -1,0 +1,23 @@
+exp_group: MSAT-Deduct
+run_name: msat_r
+dataset_name: msat
+train_bz: 32
+eval_bz: 32
+lr: 3e-5
+max_grad_norm: 0.1
+train_steps: 10000
+
+scheduler_type: linear
+warmup_steps: 0
+decay_ratio: 1.0
+
+eval_steps:  10009
+max_input_len: 128
+max_output_len: 8
+use_actual_num: True
+use_adapter: True
+adapter_tuning: True
+add_replacement: True
+save_at_last_step: True
+seed: 0
+device_name: cuda:3

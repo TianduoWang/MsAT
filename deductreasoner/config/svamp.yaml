@@ -1,0 +1,23 @@
+exp_group: SVAMP-Deduct
+run_name: s_0
+dataset_name: svamp
+train_bz: 16
+eval_bz: 16
+lr: 1.e-5
+max_grad_norm: 1.0
+train_steps: 50000
+
+scheduler_type: linear
+warmup_steps: 0
+decay_ratio: 0.5
+
+eval_steps:  200
+max_input_len: 128
+max_output_len: 7
+use_actual_num: True
+use_adapter: True
+adapter_tuning: False
+add_replacement: False
+model_init_pth: Tianduo/MsAT-DeductReasoner
+seed: 0
+remove_weights_after_train: False
