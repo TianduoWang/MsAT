@@ -1,4 +1,4 @@
-## MsAT: Learning Multi-step Reasoning from Arithmetic Task
+## MsAT: Learning Multi-step Reasoning by Solving Arithmetic Tasks
 
 ### Overview
 
@@ -95,7 +95,7 @@ Arguments for the evaluation scripts are explained here:
 
 ```bibtex
 @inproceedings{wang2023msat,
-   title={Learning Multi-step Reasoning from Arithmetic Task},
+   title={Learning Multi-step Reasoning by Solving Arithmetic Tasks},
    author={Wang, Tianduo and Lu, Wei},
    booktitle={Proceedings of ACL},
    year={2023}
